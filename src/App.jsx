@@ -8,7 +8,7 @@ import Contact from './pages/Contact';
 function App() {
   return (
     <BrowserRouter>
-      <div className="bg-stone-100 min-h-screen font-sans">
+      <div className="bg-slate-100 min-h-screen font-sans text-slate-800">
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
