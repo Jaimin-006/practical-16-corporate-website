@@ -1,4 +1,4 @@
-# Practical 16: Multi-Page Corporate Website Navigation using BrowserRouter & Link
+# Practical 16: CRUD - Create Operation (Product Management)
 
 ## How to Run
 ```bash
